@@ -219,6 +219,12 @@ A comprehensive directory of **platforms, tools, and resources** for freelancers
 - **Website:** https://www.paypal.com/invoice
 - **Cost:** FREE (transaction fees)
 
+#### Billia
+- Free invoice generator, no signup required
+- Unlimited invoices & estimates, watermark-free PDFs
+- **Website:** https://billia.app/
+- **Cost:** FREE | $8/mo Pro (saved invoices, recurring billing, client management)
+
 ### Premium Options
 
 #### FreshBooks
